@@ -1,0 +1,1 @@
+Hardamat Product is the product between each of element in a tensor with each of element in another tensor satifying the same specific index.

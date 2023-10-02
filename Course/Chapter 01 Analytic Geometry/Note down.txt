@@ -1,0 +1,7 @@
+====================== Part 01 ====================================
+1. Web search
+2. Voice recognition
+3. tag photo
+4. Climate change(use optimization to optimize result 
+5. Health Care(check diseas)
+6. 
